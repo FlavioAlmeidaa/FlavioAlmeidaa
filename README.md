@@ -3,6 +3,7 @@
 ###
 
 [![FlavioAlmeidaa's GitHub | Stats](https://stats.quira.sh/FlavioAlmeidaa/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
+[![FlavioAlmeidaa's GitHub | Dependencies](https://stats.quine.sh/FlavioAlmeidaa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
 
 ###
 
