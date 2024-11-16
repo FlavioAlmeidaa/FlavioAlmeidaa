@@ -1,11 +1,26 @@
-<h2 align="left">Hi 👋! Welcome to my profile! 🌌</h2>
+<h1 align="center">Hi 👋! Welcome to my profile! 🌌</h1>
+<h3 align="center">Exploring web and mobile development.</h3>
 
 ###
+<img src="./deku-java.gif" align="right" height="270" src=""  />
+
 
 [![FlavioAlmeidaa's GitHub | Stats](https://stats.quira.sh/FlavioAlmeidaa/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
-[![FlavioAlmeidaa's GitHub | Dependencies](https://stats.quine.sh/FlavioAlmeidaa/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
+
 
 ###
+
+<h2 align="left">You can find me here.</h2>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
+
+[![FlavioAlmeidaa's GitHub | Languages Over Time](https://stats.quira.sh/FlavioAlmeidaa/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
+
+<h2 align="left">Languages and Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -29,21 +44,12 @@
 
 ###
 
-<img src="./deku-java.gif" align="right" height="150" src=""  />
+[![FlavioAlmeidaa's GitHub | Topics Over Time](https://stats.quira.sh/FlavioAlmeidaa/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-</div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/flavioalmeidaa/flavioalmeidaa/output/snake.svg" alt="Snake animation" />
 
 ###
