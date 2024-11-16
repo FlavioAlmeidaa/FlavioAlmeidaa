@@ -2,7 +2,7 @@
 <h3 align="center">Exploring web and mobile development.</h3>
 
 ###
-<img src="./deku-java.gif" align="right" height="270" src=""  />
+<img src="./deku-java.gif" align="right" height="250" src=""  />
 
 
 [![FlavioAlmeidaa's GitHub | Stats](https://stats.quira.sh/FlavioAlmeidaa/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FlavioAlmeidaa)
