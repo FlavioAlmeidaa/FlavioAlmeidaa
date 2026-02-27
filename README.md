@@ -30,7 +30,7 @@
 <div style="display:flex; align-items:flex-start; gap:20px;">
 <img src="./deku-java.gif" align="right" height="200" />
 <div align="left">
-<h3>
+<h4>
   <p>
     Full Stack Developer focused on backend, frontend, and DevOps practices.<br>  
     I build complete applications, working from database modeling to <br>  
@@ -43,7 +43,7 @@
     things work behind the scenes and turning  
     ideas into practical solutions.
   </p>
-</h3>
+</h4>
 </div>
 </div>
 
